@@ -3,7 +3,7 @@ date: 2021-08-11
 location: Ridehuset
 name: FLUKHX Meeting
 codename: FL<span class='red'>UKH</span><span class='blue'>X</span> – Meeting
-type: Political Meeting
+type: Political Meetings
 description: The growth layer culture of Aarhus
 ---
 
