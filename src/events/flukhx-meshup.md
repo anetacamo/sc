@@ -28,3 +28,5 @@ _PROGRAM for the Mash-Up (15-19) - workshops, artists etc. Look forward to meeti
 - 🌱 _Navus_ - the brand new sustainability and event organizers Navus are gonna surprise you with thought-provoking and co-creational sculpturing onsite.
 - 🏀 _Siamo Street_ - to keep the pulse and playfulness high, Siamo Street are gonna provide competitions and games throughout the day.
 
+TBA more
+
