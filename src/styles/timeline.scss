@@ -52,18 +52,15 @@
   transition-duration: 350ms;
 }
 
-.policy-lab {
+.policy-labs {
   &.inside {
     background-color: var(--blue);
-    &:hover {
-      background-color: var(--red);
-    }
   }
-  h5 {
-    color: white;
+  &.inside:hover {
+    background-color: var(--red);
   }
   h3 {
-    color: white;
+    color: black;
   }
 }
 

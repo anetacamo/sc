@@ -1,7 +1,7 @@
 import React from 'react';
 import TimelineEvent from './timelineEvent';
 
-const TimelineSection = ({ events, color, title, reversed }) => {
+const TimelineSection = ({ events, color, reversed }) => {
   var odd = [];
   var even = [];
   events.map((event, index) =>

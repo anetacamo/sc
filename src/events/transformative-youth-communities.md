@@ -12,6 +12,8 @@ _Along with Kulturmødet Mors, we created a policy lab about youth communities. 
 
 The event was a hybrid. First part was a national, digital debate with participants from the whole country: Shubhdeep Singh Parwana (soulitate chaibar), Rikke Bogetoft (Unges møde med kunsten/Undergrowth Events), Magnus Mosholm (Subhuset/KRAS), Malte Houe (Ung Kult) and Laura Spanggaard Bülow (Rampen). The second part was a physical event at Frontløberne – including panel talk, dinner, live podcasting and intimate concert.
 
+&nbsp;
+
 _The programme:_
 
 1. Digital debate
@@ -19,6 +21,8 @@ _The programme:_
 3. Panel talk – feat. Nicoline Quarrie (Cypher Movement), Anne Eggebrecht (SKATEDUCATE) and Camilla Aneto (det turkise telt)
 4. Live podcast – feat. c-cube
 5. Intimate concert – feat. Lotus Noir
+
+&nbsp;
 
 _Some of the topics and discussions of the day are presented, condensed and analysed in the following:_
 

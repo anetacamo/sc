@@ -9,7 +9,7 @@
     background-position: center;
     background-size: cover;
     img {
-      object-fit: contain;
+      object-fit: cover;
     }
   }
   @media (max-width: 800px) {

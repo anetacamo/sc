@@ -29,7 +29,8 @@
   width: 420px;
   height: 420px;
   .text {
-    width: 420px;
+    width: 360px;
+    pointer-events: none;
   }
   @media (max-width: 800px) {
     width: 320px;
