@@ -5,6 +5,7 @@ name: FLUKHX Meeting
 codename: FL<span class='red'>UKH</span><span class='blue'>X</span> – Meeting
 type: Political Meetings
 description: The growth layer culture of Aarhus
+gallery: 15
 ---
 
 ## THE GROWTH LAYER CULTURE OF AARHUS

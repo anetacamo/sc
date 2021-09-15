@@ -5,6 +5,7 @@ name: FLUKHX Mashup
 codename: FL<span class='red'>UKH</span><span class='blue'>X</span> - Mashup
 type: Cultural Events
 description: 8 hours of living culture
+gallery: 16
 ---
 
 ## 8 HOURS OF LIVING CULTURE

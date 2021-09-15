@@ -4,6 +4,7 @@ location: Frontløberne
 name: We Want to Restore Energy
 type: Podcasts
 description: A conversation about FLUKHX, Sweet City and their cultural and political aspirations
+gallery: 1
 ---
 
 ## A CONVERSATION ABOUT FLUKHX, SWEET CITY AND THEIR CULTURAL AND POLITICAL ASPIRATIONS
