@@ -1,8 +1,8 @@
 ---
 date: 2021-08-11
 location: Officerspladsen at Ridehuset
-name: FLUKHX Match Up
-codename: FL<span class='red'>UKH</span><span class='blue'>X</span> - Match Up
+name: FLUKHX Mashup
+codename: FL<span class='red'>UKH</span><span class='blue'>X</span> - Mashup
 type: Cultural Events
 description: 8 hours of living culture
 ---
