@@ -96,14 +96,15 @@ const EventLayout = ({ match }) => {
       </section>
 
       {'gallery' in event && (
-        <section>
+        <section className='bg-lightgray'>
           <h4>Gallery</h4>
+
           <div className='flex gallery container'>
-            {Array(event.gallery)
-              .fill(0)
-              .map((image, index) => (
-                <Image path={`/events/0${index + 1}.jpg`} />
-              ))}
+            {[...Array(Number(event.gallery))].map((image, index) => (
+              <a href={`/images/events/${title}/${index + 1}.jpg`}>
+                <Image path={`/events/${title}/${index + 1}.jpg`} />
+              </a>
+            ))}
           </div>
         </section>
       )}

@@ -1,9 +1,13 @@
 .gallery {
   align-items: center;
   flex-wrap: wrap;
-  img {
+  max-width: 832px;
+  @media (max-width: 846px) {
+    margin: -16px;
+  }
+  a {
     min-width: 180px;
-    max-width: 320px;
+    max-width: 800px;
     margin: 16px;
     background-size: cover;
     flex: 1;
