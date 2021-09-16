@@ -29,3 +29,5 @@ _Some of the topics and discussions of the day are presented, condensed and anal
 
 - [Digital debate](https://www.crowdcast.io/e/km21-14)
 - [Podcast](https://soundcloud.com/ccube_aarhus/daniel-episode)
+
+Credits to Kio Jørgensen Ng for the photos.
