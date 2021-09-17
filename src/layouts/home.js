@@ -30,7 +30,11 @@ const Home = () => {
         <div className='intro-bg'></div>
         <div className='container'>
           <h2 className='blue vertical date'>21.6. - 16.11.</h2>
-          <h1>Sweet City 2021</h1>
+          <h1>
+            Sweet
+            <br /> City
+            <br /> 2021
+          </h1>
           <p>Half a year of youthful politics in Aarhus</p>
 
           <Image path='/logo.png' nameClass='logo' />
@@ -43,19 +47,24 @@ const Home = () => {
 
       <section className='bg-lightgray center'>
         <div className='container'>
-          <h2 className='blue'>About this project</h2>
+          <h2 className='blue'>
+            About this
+            <br /> project
+          </h2>
 
+          <h3>
+            Sweet City is a project that runs from August
+            <br /> to the local election in November 2021.
+          </h3>
           <p>
-            Sweet City is a project that runs from August to the local election
-            in November 2021. Throughout this period, up to 20
-            events/meetings/podcasts will take place in and around Aarhus. This
-            website gathers information and activities of the project – and will
-            be updated continuously.
+            Throughout this period, up to 20 events/meetings/podcasts will take
+            place in and around Aarhus. This website gathers information and
+            activities of the project – and will be updated continuously.
           </p>
           <p>
             <i>
-              After more than a year of political state of emergency, it is time
-              to reflect and to dream.
+              After more than a year of political state of emergency,
+              <br /> it is time to reflect and to dream.
             </i>
           </p>
           <Link to='/about'>

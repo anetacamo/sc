@@ -1,4 +1,7 @@
 .intro {
+  h1 {
+    font-size: 90px;
+  }
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -35,12 +38,12 @@
       left: 200px;
     }
   }
-  @media (max-width: 400px) {
+  @media (max-width: 480px) {
     h1 {
-      font-size: 60px;
+      font-size: 52px;
     }
     .date {
-      font-size: 32px;
+      font-size: 26px;
     }
     .boom {
       top: 96px;
@@ -56,6 +59,7 @@
   width: 100vw;
   position: absolute;
   left: 0;
+  top: 0;
 }
 
 .vertical {

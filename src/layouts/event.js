@@ -24,7 +24,7 @@ const EventLayout = ({ match }) => {
   const event = events.find((event) => slugify(event.name) === title);
 
   /* events of the same type: */
-  const sameType = events.filter((e) => e.type === event.type);
+  const sameType = events.filter((e) => e.type === event.type && e !== event);
 
   /* get the type object item */
   const type = eventTypes.find((type) => type.name === event.type);
@@ -37,7 +37,6 @@ const EventLayout = ({ match }) => {
   );
 
   useEffect(() => {
-    console.log(title);
     import(`../../src/events/${title}.md`)
       .then((res) => {
         fetch(res.default)
@@ -51,6 +50,7 @@ const EventLayout = ({ match }) => {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [text, eventText]);
 
+  console.log(nameLength);
   return (
     <>
       <MetaTags
@@ -72,8 +72,9 @@ const EventLayout = ({ match }) => {
               <h4 style={{ marginBottom: -8 }}>{event.location}</h4>
               {event.codename ? null : (
                 <h1
-                  style={nameLength > 24 ? { fontSize: 60 } : { fontSize: 90 }}
-                  className={`shadow-${type.color2}`}
+                  className={`shadow-${type.color2} ${
+                    nameLength > 24 || 'font-large'
+                  }`}
                 >
                   {event.name}
                 </h1>
@@ -81,11 +82,14 @@ const EventLayout = ({ match }) => {
               <h1 dangerouslySetInnerHTML={{ __html: event.codename }}></h1>
               <p>{event.description}</p>
             </div>
+
             <Event
               type={event.type}
               color='black'
               nameClass='type-event'
               slug={title}
+              imageNum={event.cover}
+              imageStable={true}
             />
           </div>
         </div>
@@ -115,11 +119,13 @@ const EventLayout = ({ match }) => {
         <EventsInLine color='black' title='Upcoming events' events={upcoming} />
       )}
 
-      <EventsInLine
-        color={type.color2}
-        title={`other ${event.type}`}
-        events={sameType}
-      />
+      {sameType.length > 0 && (
+        <EventsInLine
+          color={type.color2}
+          title={`other ${event.type}`}
+          events={sameType}
+        />
+      )}
     </>
   );
 };

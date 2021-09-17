@@ -14,6 +14,7 @@ const TimelineEvent = ({ event, color, nameClass }) => {
         type={event.type}
         color={color}
         slug={slugify(event.name)}
+        imageNum={event.cover}
       >
         <h5>{event.date}</h5>
         <h5>{event.location}</h5>

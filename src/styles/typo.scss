@@ -89,19 +89,28 @@ b {
 
 h1 {
   font-weight: 900;
-  font-size: 90px;
+  font-size: 60px;
   line-height: 1;
   letter-spacing: 4px;
   text-transform: uppercase;
   text-shadow: 6px 6px var(--blue);
   @media (max-width: 800px) {
-    font-size: 72px;
+    font-size: 52px;
+    letter-spacing: 3px;
   }
   @media (max-width: 600px) {
-    font-size: 56px;
+    font-size: 46px;
+    letter-spacing: 2px;
   }
-  @media (max-width: 400px) {
-    font-size: 40px;
+  @media (max-width: 440px) {
+    font-size: 36px;
+    letter-spacing: 2px;
+  }
+}
+
+.font-large {
+  @media (min-width: 800px) {
+    font-size: 90px;
   }
 }
 
@@ -112,10 +121,15 @@ h2 {
   letter-spacing: 4px;
   text-transform: uppercase;
   @media (max-width: 800px) {
-    font-size: 48px;
+    font-size: 46px;
   }
-  @media (max-width: 400px) {
-    font-size: 40px;
+  @media (max-width: 600px) {
+    font-size: 38px;
+    letter-spacing: 2px;
+  }
+  @media (max-width: 440px) {
+    font-size: 28px;
+    letter-spacing: 2px;
   }
 }
 
@@ -124,8 +138,11 @@ h3 {
   line-height: 1.2;
   letter-spacing: 1px;
   font-weight: 800;
-  @media (max-width: 400px) {
+  @media (max-width: 600px) {
     font-size: 18px;
+  }
+  @media (max-width: 440px) {
+    font-size: 16px;
   }
 }
 

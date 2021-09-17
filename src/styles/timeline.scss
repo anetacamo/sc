@@ -60,7 +60,10 @@
     background-color: var(--red);
   }
   h3 {
-    color: black;
+    color: white;
+  }
+  h5 {
+    color: var(--yellow);
   }
 }
 
@@ -72,7 +75,7 @@
     }
   }
   h5 {
-    color: var(--red);
+    color: var(--blue);
   }
   h3 {
     color: black;
@@ -81,8 +84,8 @@
 .political-meetings button {
   @extend .btn-red;
 }
-.cultural-events button:hover {
-  @extend .btn-red;
+.cultural-events button {
+  @extend .btn-black;
 }
 
 .cultural-events {
@@ -108,7 +111,7 @@
     }
   }
   h5 {
-    color: var(--blue);
+    color: var(--red);
   }
   h3 {
     color: black;
@@ -136,7 +139,8 @@
     width: 320px;
   }
   .text {
-    width: 320px;
+    width: 280px;
+    pointer-events: none;
     @media (max-width: 800px) {
       width: 280px;
     }
