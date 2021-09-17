@@ -6,7 +6,7 @@
     "color": "red",
     "color2": "lightgray",
     "colorHover": "blue",
-    "shortName": "Cultu  ral Ev ents",
+    "shortName": "Cultural Events",
     "letterNum": 5
   },
   {
@@ -16,7 +16,7 @@
     "color": "yellow",
     "color2": "red",
     "colorHover": "white",
-    "shortName": "Poli  tical M eetings",
+    "shortName": "Political Meetings",
     "letterNum": 6
   },
   {
@@ -26,7 +26,7 @@
     "color": "lightgray",
     "color2": "blue",
     "colorHover": "yellow",
-    "shortName": "P od casts",
+    "shortName": "Podcasts",
     "letterNum": 4
   },
   {
@@ -36,7 +36,7 @@
     "color": "blue",
     "color2": "yellow",
     "colorHover": "red",
-    "shortName": "Pol icy Labs",
-    "letterNum": 3
+    "shortName": "Policy Labs",
+    "letterNum": 6
   }
 ]

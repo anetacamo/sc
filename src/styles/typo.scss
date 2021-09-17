@@ -89,7 +89,7 @@ b {
 
 h1 {
   font-weight: 900;
-  font-size: 60px;
+  font-size: 54px;
   line-height: 1;
   letter-spacing: 4px;
   text-transform: uppercase;
@@ -99,7 +99,7 @@ h1 {
     letter-spacing: 3px;
   }
   @media (max-width: 600px) {
-    font-size: 46px;
+    font-size: 40px;
     letter-spacing: 2px;
   }
   @media (max-width: 440px) {
@@ -116,7 +116,7 @@ h1 {
 
 h2 {
   font-weight: 900;
-  font-size: 56px;
+  font-size: 52px;
   line-height: 1;
   letter-spacing: 4px;
   text-transform: uppercase;
@@ -128,7 +128,7 @@ h2 {
     letter-spacing: 2px;
   }
   @media (max-width: 440px) {
-    font-size: 28px;
+    font-size: 32px;
     letter-spacing: 2px;
   }
 }

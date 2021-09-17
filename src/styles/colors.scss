@@ -21,6 +21,9 @@ $colors: 'red', 'yellow', 'blue', 'lightgray', 'black', 'white';
   }
   .shadow-#{$color} {
     text-shadow: 6px 6px var(--#{$color});
+    @media (max-width: 600px) {
+      text-shadow: 3px 3px var(--#{$color});
+    }
   }
   .hover-#{$color}:hover {
     color: var(--#{$color});
