@@ -26,7 +26,6 @@ function App() {
     if (a.name < b.name) return 1;
     if (a.name > b.name) return -1;
   });
-  console.log(events.map((event) => event.name));
   return (
     <>
       <Header />
