@@ -13,7 +13,10 @@ const TimelineSection = ({ events, color, reversed }) => {
   return (
     <section className={`center bg-${color} timeline`}>
       <div className='container-wide center flex desktop'>
-        <div className='flex timeline-container' style={{ marginTop: -80 }}>
+        <div
+          className={`flex timeline-container ${reversed && 'moveddown'}`}
+          style={{ marginTop: -80 }}
+        >
           {odd.map((event, index) => (
             <TimelineEvent
               key={index}

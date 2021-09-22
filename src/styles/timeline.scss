@@ -14,6 +14,10 @@
 .movedup {
   margin-top: -80px !important;
 }
+.moveddown {
+  margin-top: 160px !important;
+}
+
 .timeline-container {
   @media (min-width: 600px) {
     width: 49%;
@@ -134,6 +138,9 @@
 .timeline-event {
   width: 360px;
   height: 600px;
+  @media (max-width: 1000px) {
+    height: 400px;
+  }
   @media (max-width: 600px) {
     height: 320px;
     width: 320px;

@@ -12,8 +12,21 @@ import { slugify } from './utils/slugify';
 import { Route, Switch } from 'react-router-dom';
 
 function App() {
-  events.sort((a, b) => (a.date > b.date ? 1 : -1));
+  // events.sort((a, b) => (a.date > b.date ? 1 : -1));
+  events.sort(function (a, b) {
+    // Sort by votes
+    // If the first item has a higher number, move it down
+    // If the first item has a lower number, move it up
+    if (a.date > b.date) return 1;
+    if (a.date < b.date) return -1;
 
+    // If the votes number is the same between both items, sort alphabetically
+    // If the first item comes first in the alphabet, move it up
+    // Otherwise move it down
+    if (a.name < b.name) return 1;
+    if (a.name > b.name) return -1;
+  });
+  console.log(events.map((event) => event.name));
   return (
     <>
       <Header />
