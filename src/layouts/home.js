@@ -94,6 +94,58 @@ const Home = () => {
 
       <Timeline events={events} color='white' />
       {allquotes.length > 0 && <Quotes quotations={allquotes} maxSlides={3} />}
+
+      {/*   
+      <section className='center'>
+        <div className='container bg-talk filter-white'>
+          <h2>Write to your local polititian</h2>
+          <p>
+            There are six postboxes placed around Aarhus. See the list of the
+            locations.
+          </p>
+        </div>
+      </section>
+      */}
+
+      {/*
+      <section className='center bg-lightgray'>
+        <h2>Write to your local polititian</h2>
+        <p>
+          There are six postboxes placed around Aarhus. See the list of the
+          locations.
+        </p>
+      </section>
+      <section className='center bg-lightgray bg-pattern'>
+        <div className='flex-wrap flex-center'>
+          <div
+            className='container-wide flex flex-wrap'
+            style={{ justifyContent: 'center' }}
+          >
+            <div className='container bg-postkase'>
+              <h2 style={{ fontSize: 32 }}>
+                Cafe
+                <br /> MellemFolk
+              </h2>
+              <p>Mejlgade 53</p>
+            </div>
+            <div className='container bg-postkase'>
+              <h2 style={{ fontSize: 32 }}>box</h2>
+            </div>
+            <div className='container bg-postkase'>
+              <h2 style={{ fontSize: 32 }}>box</h2>
+            </div>
+            <div className='container bg-postkase'>
+              <h2 style={{ fontSize: 32 }}>box</h2>
+            </div>
+            <div className='container bg-postkase'>
+              <h2 style={{ fontSize: 32 }}>box</h2>
+            </div>
+            <div className='container bg-postkase'>
+              <h2 style={{ fontSize: 32 }}>box</h2>
+            </div>
+          </div>
+        </div>
+</section> */}
     </>
   );
 };
