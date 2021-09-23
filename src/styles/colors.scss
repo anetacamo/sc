@@ -72,26 +72,32 @@ $colors: 'red', 'yellow', 'blue', 'lightgray', 'black', 'white';
 
 .bg-pattern {
   background-size: contain;
-
   background-position: center center;
   background-image: url(../images/scbg2.png);
 }
 
 .bg-talk {
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: center center;
   background-image: url(../images/03.png);
   color: black;
-  padding: 80px 60px;
+  padding: 120px 60px;
   max-width: 400px !important;
+}
+
+.bg-letter {
+  background-size: cover;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-image: url(../images/letter2.png);
 }
 
 .bg-postkase {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center;
-  background-image: url(../images/postkasse.png);
+  background-image: url(../images/postkasse1.png);
   color: white;
   padding: 20px;
   margin: 8px !important;
@@ -101,6 +107,11 @@ $colors: 'red', 'yellow', 'blue', 'lightgray', 'black', 'white';
   display: flex;
   flex-direction: column;
   place-content: center;
+  &:hover {
+    filter: invert(1);
+    transition-duration: 350ms;
+  }
+
   h2 {
     margin-bottom: 8px;
   }

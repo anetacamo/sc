@@ -5,8 +5,10 @@ import EventTypes from '../components/eventTypes';
 import Timeline from '../components/timeline';
 import Quotes from '../components/quotes';
 import MetaTags from '../components/metaTags';
+import EventsInLine from '../components/eventsInLine';
 
 import { Link } from 'react-router-dom';
+import { getCurrentDate } from '../utils/date';
 
 import eventTypes from '../event-types.json';
 import events from '../events.json';
@@ -16,6 +18,11 @@ const Home = () => {
   let allquotes = [];
   eventsWithQuotes.map(
     (event) => (allquotes = [...allquotes, ...event.quotes])
+  );
+  var upcoming = [];
+
+  events.map((event) =>
+    event.date > getCurrentDate() ? upcoming.push(event) : null
   );
   return (
     <>
@@ -95,27 +102,33 @@ const Home = () => {
       <Timeline events={events} color='white' />
       {allquotes.length > 0 && <Quotes quotations={allquotes} maxSlides={3} />}
 
-      {/*   
-      <section className='center'>
+      <section className='center bg-letter'>
         <div className='container bg-talk filter-white'>
-          <h2>Write to your local polititian</h2>
-          <p>
-            There are six postboxes placed around Aarhus. See the list of the
-            locations.
-          </p>
+          <h2>Post a letter to your local politician</h2>
         </div>
       </section>
-      */}
-
-      {/*
-      <section className='center bg-lightgray'>
-        <h2>Write to your local polititian</h2>
+      <section className='center '>
         <p>
-          There are six postboxes placed around Aarhus. See the list of the
-          locations.
+          There are six postboxes placed around Aarhus. Each letter will be
+          delivered to relevant local polititian/party/institution before the
+          elections. Some of the texts might be posted on the website.
         </p>
       </section>
-      <section className='center bg-lightgray bg-pattern'>
+      {/*
+      <section className='center bg-white'>
+        <h2>Write to your local polititian</h2>
+        <p>
+          There are six postboxes placed around Aarhus. Each letter will be
+          delivered to relevant local polititian/party/institution before the
+          elections. Some of the texts might be posted on the website.
+        </p>
+        <Image path='/letter2.png' nameClass='medium' />
+        <p>
+          <i>see the list of locations bellow</i>
+        </p>
+      </section>
+*/}
+      <section className='center bg-black bg-pattern'>
         <div className='flex-wrap flex-center'>
           <div
             className='container-wide flex flex-wrap'
@@ -123,29 +136,49 @@ const Home = () => {
           >
             <div className='container bg-postkase'>
               <h2 style={{ fontSize: 32 }}>
-                Cafe
-                <br /> MellemFolk
+                Studenter
+                <br />
+                huset
               </h2>
               <p>Mejlgade 53</p>
             </div>
             <div className='container bg-postkase'>
-              <h2 style={{ fontSize: 32 }}>box</h2>
+              <h2 style={{ fontSize: 32 }}>
+                Katedrale
+                <br /> Skolen
+              </h2>
+              <p>Skolegyde 1-3</p>
             </div>
             <div className='container bg-postkase'>
-              <h2 style={{ fontSize: 32 }}>box</h2>
+              <h2 style={{ fontSize: 32 }}>Frontløberne</h2>
+              <p>Jægergårdsgade 154</p>
             </div>
             <div className='container bg-postkase'>
-              <h2 style={{ fontSize: 32 }}>box</h2>
+              <h2 style={{ fontSize: 32 }}>FAIR BAR</h2>
+              <p>Klostertorvet 6</p>
             </div>
             <div className='container bg-postkase'>
-              <h2 style={{ fontSize: 32 }}>box</h2>
+              <h2 style={{ fontSize: 32 }}>UKH</h2>
+              <p>Skovgaardsgade 5C</p>
             </div>
             <div className='container bg-postkase'>
-              <h2 style={{ fontSize: 32 }}>box</h2>
+              <h2 style={{ fontSize: 32 }}>
+                Institut
+                <br /> for (X)
+              </h2>
+              <p>Tage-Hansens Gade 8B</p>
             </div>
           </div>
         </div>
-</section> */}
+      </section>
+
+      {upcoming.length > 1 && (
+        <EventsInLine
+          color='lightgray'
+          title='Upcoming events'
+          events={upcoming}
+        />
+      )}
     </>
   );
 };

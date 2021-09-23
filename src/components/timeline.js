@@ -24,7 +24,7 @@ const Timeline = ({ events }) => {
       className={`center bg-${upcoming.length > 0 ? color : 'black'}`}
     >
       <h2>Timeline</h2>
-      <p>of upcoming and passed events</p>
+      <p>of upcoming and past events</p>
       {upcoming.length !== 0 && (
         <TimelineSection events={upcoming} color={color} />
       )}

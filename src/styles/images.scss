@@ -25,6 +25,10 @@ img {
   transition-duration: 350ms;
 }
 
+.medium {
+  max-width: 600px;
+}
+
 .inverted {
   filter: invert(1);
 }
