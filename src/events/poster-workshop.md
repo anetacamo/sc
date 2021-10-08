@@ -1,7 +1,7 @@
 ---
 date: 2021-10-09
 location: UKH
-name: Creative Activism: Election Posters
+name: Creative Activism - Election Posters
 type: Policy Labs
 description: Express your dreams and beliefs artistically by hacking the boring old election poster.
 ---
