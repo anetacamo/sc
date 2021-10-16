@@ -4,6 +4,8 @@ location: Frontløberne
 name: Aarhus Futura
 type: Cultural Events
 description: Imagining the world 5 years from now. All the time, every time.
+photo: Jonatan Nothlev
+gallery: 17
 ---
 
 ## IMAGINING THE WORLD 5 YEARS FROM NOW. ALL THE TIME, EVERY TIME.
@@ -29,7 +31,6 @@ In his keynote he covered the following topics:
 - Relevant cryptocurrency projects,
 - Definition of non-fungible tokens (NFTs).
 - Current and future decentralization opportunities offered by this fast growing industry, followed by a Q&A session with enough time to satisfy your inner curiosity about this technological field.
-
 
 _14:00-18:00 in the 3rd Space_
 _Dive in the Metaverse_

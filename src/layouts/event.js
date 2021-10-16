@@ -102,7 +102,7 @@ const EventLayout = ({ match }) => {
       {'gallery' in event && (
         <section className='bg-lightgray'>
           <h4>Gallery</h4>
-
+          {'photo' in event && <p>photo by {event.photo}</p>}
           <div className='flex gallery container'>
             {[...Array(Number(event.gallery))].map((image, index) => (
               <a href={`/images/events/${title}/${index + 1}.jpg`}>
