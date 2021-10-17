@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.ca3a2769.chunk.css",
-    "main.js": "/static/js/main.8a943eb8.chunk.js",
-    "main.js.map": "/static/js/main.8a943eb8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b338f57f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b338f57f.js.map",
+    "main.js": "/static/js/main.3cb12e6a.chunk.js",
+    "main.js.map": "/static/js/main.3cb12e6a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.64400a29.js",
+    "runtime-main.js.map": "/static/js/runtime-main.64400a29.js.map",
     "static/js/2.687f7ee0.chunk.js": "/static/js/2.687f7ee0.chunk.js",
     "static/js/2.687f7ee0.chunk.js.map": "/static/js/2.687f7ee0.chunk.js.map",
     "static/js/3.889cb864.chunk.js": "/static/js/3.889cb864.chunk.js",
@@ -19,8 +19,8 @@
     "static/js/7.543d055d.chunk.js.map": "/static/js/7.543d055d.chunk.js.map",
     "static/js/8.ddc5b9f3.chunk.js": "/static/js/8.ddc5b9f3.chunk.js",
     "static/js/8.ddc5b9f3.chunk.js.map": "/static/js/8.ddc5b9f3.chunk.js.map",
-    "static/js/9.0616a2d5.chunk.js": "/static/js/9.0616a2d5.chunk.js",
-    "static/js/9.0616a2d5.chunk.js.map": "/static/js/9.0616a2d5.chunk.js.map",
+    "static/js/9.35c5a1e3.chunk.js": "/static/js/9.35c5a1e3.chunk.js",
+    "static/js/9.35c5a1e3.chunk.js.map": "/static/js/9.35c5a1e3.chunk.js.map",
     "static/js/10.80f2614a.chunk.js": "/static/js/10.80f2614a.chunk.js",
     "static/js/10.80f2614a.chunk.js.map": "/static/js/10.80f2614a.chunk.js.map",
     "static/js/11.7c7be348.chunk.js": "/static/js/11.7c7be348.chunk.js",
@@ -39,16 +39,16 @@
     "static/media/flukhx-meeting.md": "/static/media/flukhx-meeting.a285690b.md",
     "static/media/flukhx-podcast.md": "/static/media/flukhx-podcast.f653c3fb.md",
     "static/media/hands-on-politics.md": "/static/media/hands-on-politics.5c769cf4.md",
-    "static/media/poster-workshop.md": "/static/media/poster-workshop.6722f689.md",
+    "static/media/poster-workshop.md": "/static/media/poster-workshop.604af519.md",
     "static/media/public-hearings-and-city-development.md": "/static/media/public-hearings-and-city-development.03d135ca.md",
     "static/media/tools-for-change.md": "/static/media/tools-for-change.b900a8cf.md",
     "static/media/transformative-communities-podcast.md": "/static/media/transformative-communities-podcast.16e802f3.md",
     "static/media/transformative-youth-communities.md": "/static/media/transformative-youth-communities.903729dd.md"
   },
   "entrypoints": [
-    "static/js/runtime-main.b338f57f.js",
+    "static/js/runtime-main.64400a29.js",
     "static/js/2.687f7ee0.chunk.js",
     "static/css/main.ca3a2769.chunk.css",
-    "static/js/main.8a943eb8.chunk.js"
+    "static/js/main.3cb12e6a.chunk.js"
   ]
 }

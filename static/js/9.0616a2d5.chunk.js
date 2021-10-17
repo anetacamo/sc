@@ -1,2 +1,0 @@
-(this.webpackJsonpsweetcity=this.webpackJsonpsweetcity||[]).push([[9],{215:function(t,s,e){"use strict";e.r(s),s.default=e.p+"static/media/poster-workshop.6722f689.md"}}]);
-//# sourceMappingURL=9.0616a2d5.chunk.js.map
