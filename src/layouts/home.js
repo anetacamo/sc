@@ -102,7 +102,7 @@ const Home = () => {
       <Timeline events={events} color='white' />
       {allquotes.length > 0 && <Quotes quotations={allquotes} maxSlides={3} />}
 
-      <section className='center bg-letter'>
+      <section className='center'>
         <div className='container bg-talk filter-white'>
           <h2>Post a letter to your local politician</h2>
         </div>

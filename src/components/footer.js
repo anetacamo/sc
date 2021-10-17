@@ -55,7 +55,8 @@ const Footer = () => {
             </div>
             <h4>
               supported by{' '}
-              <Go to='https://www.tuborgfondet.dk'>Tuborgfondet</Go>
+              <Go to='https://www.tuborgfondet.dk'>Tuborgfondet</Go> &
+              <Go to='https://www.kulturregion.dk/en/'>Kulturregion</Go>
             </h4>
             <Go to='https://www.tuborgfondet.dk'>
               <Image path='/logos/tf.png' nameClass='imagelink large' />

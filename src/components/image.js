@@ -1,12 +1,12 @@
 import React from 'react';
 
-const Image = ({ nameClass, path }) => {
+const Image = ({ nameClass, path, alt }) => {
   const staticPath = '';
   return (
     <img
       src={`/..${staticPath}/images${path}`}
       className={nameClass ? nameClass : null}
-      alt={path}
+      alt={alt ? alt : path}
     />
   );
 };

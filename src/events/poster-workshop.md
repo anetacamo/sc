@@ -4,6 +4,8 @@ location: UKH
 name: Creative Activism - Election Posters
 type: Policy Labs
 description: Express your dreams and beliefs artistically by hacking the boring old election poster.
+gallery: 36
+photo: Jonatan Nothlevg
 ---
 
 ## EXPRESS YOUR DREAMS AND BELIEFS ARTISTICALLY BY HACKING THE BORING OLD ELECTION POSTER.

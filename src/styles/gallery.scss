@@ -1,15 +1,29 @@
 .gallery {
-  align-items: center;
-  flex-wrap: wrap;
-  max-width: 832px;
-  @media (max-width: 846px) {
-    margin: -16px;
+  h4,
+  p {
+    max-width: 1200px;
   }
-  a {
-    min-width: 180px;
-    max-width: 800px;
-    margin: 16px;
-    background-size: cover;
-    flex: 1;
+  .gallery-holder {
+    max-width: 1200px;
+    margin: auto;
+    .container {
+      flex-wrap: wrap;
+      justify-content: center;
+      max-width: 1200px;
+      margin: -8px;
+      @media (max-width: 846px) {
+        a {
+          min-width: 120px;
+        }
+      }
+      a {
+        min-width: 320px;
+        flex-grow: 4;
+        max-width: 800px;
+        margin: 8px;
+        background-size: cover;
+        flex: 1;
+      }
+    }
   }
 }

@@ -100,15 +100,21 @@ const EventLayout = ({ match }) => {
       </section>
 
       {'gallery' in event && (
-        <section className='bg-lightgray'>
+        <section className='bg-lightgray gallery'>
           <h4>Gallery</h4>
+
           {'photo' in event && <p>photo by {event.photo}</p>}
-          <div className='flex gallery container'>
-            {[...Array(Number(event.gallery))].map((image, index) => (
-              <a href={`/images/events/${title}/${index + 1}.jpg`}>
-                <Image path={`/events/${title}/${index + 1}.jpg`} />
-              </a>
-            ))}
+          <div className='gallery-holder'>
+            <div className='flex container'>
+              {[...Array(Number(event.gallery))].map((image, index) => (
+                <a href={`/images/events/${title}/${index + 1}.jpg`}>
+                  <Image
+                    path={`/events/${title}/${index + 1}.jpg`}
+                    alt={`${event.title}_${index + 1} by ${event.photo}`}
+                  />
+                </a>
+              ))}
+            </div>
           </div>
         </section>
       )}

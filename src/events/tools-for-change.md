@@ -4,6 +4,8 @@ location: Institute for (X)
 name: Tools for Change
 type: Policy Labs
 description: How to respond to the challenges of our times through active hope, connectivity, and creative actions?
+photo: Peter Kirkegaard
+gallery: 20
 ---
 
 ## HOW TO RESPOND TO THE CHALLENGES OF OUR TIMES THROUGH ACTIVE HOPE, CONNECTIVITY, AND CREATIVE ACTIONS?
@@ -11,6 +13,7 @@ description: How to respond to the challenges of our times through active hope, 
 _A workshop for those concerned about the state of the world and the different challenges we are witnessing — climate, social, political - with the need to explore their role and agency in contributing to positive change._
 
 In this experiential, participatory and engaging workshop we:
+
 - re-connected with oneself and others in a supportive environment
 - explored different democratic actions that by-pass electoral politics
 - explored our role in collective transition towards a life-sustaining world
