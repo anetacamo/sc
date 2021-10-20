@@ -1,5 +1,6 @@
 ---
 date: 2021-10-20
+moredays: 20-21 OCTOBER 2021
 location: DOKK1
 name: Do You Feel Like Speeking Out?
 type: Cultural Events

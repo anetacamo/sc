@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import ReactMarkdown from 'react-markdown';
+import Moment from 'react-moment';
 
 import events from '../events.json';
 import eventTypes from '../event-types.json';
@@ -60,7 +61,14 @@ const EventLayout = ({ match }) => {
       <section className='bg-black evtypes'>
         <h4 className='vertical time black'>
           {event.name}
-          <span className={type.color2}> {event.date}</span>
+          <span className={type.color2}>
+            {' '}
+            {event.moredays ? (
+              event.moredays
+            ) : (
+              <Moment date={event.date} format='D MMMM YYYY'></Moment>
+            )}
+          </span>
         </h4>
         <h4 className='vertical place black'>
           <span className={type.color2}>{event.location}</span>
@@ -68,7 +76,13 @@ const EventLayout = ({ match }) => {
         <div className='container-wide center'>
           <div className='flex'>
             <div className='left'>
-              <h4 style={{ marginBottom: -20 }}>{event.date}</h4>
+              <h4 style={{ marginBottom: -20 }}>
+                {event.moredays ? (
+                  event.moredays
+                ) : (
+                  <Moment date={event.date} format='D MMMM YYYY'></Moment>
+                )}
+              </h4>
               <h4 style={{ marginBottom: -8 }}>{event.location}</h4>
               {event.codename ? null : (
                 <h1

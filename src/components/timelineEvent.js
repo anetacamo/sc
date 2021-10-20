@@ -18,7 +18,11 @@ const TimelineEvent = ({ event, color, nameClass }) => {
         imageNum={event.cover}
       >
         <h5>
-          <Moment date={event.date} format='D MMMM YYYY'></Moment>
+          {event.moredays ? (
+            event.moredays
+          ) : (
+            <Moment date={event.date} format='D MMMM YYYY'></Moment>
+          )}
         </h5>
         <h5>{event.location}</h5>
         <h3>{event.name}</h3>

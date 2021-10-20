@@ -6,6 +6,7 @@ type: Policy Labs
 description: How do we change our city through meaningful communities?
 gallery: 3
 cover: 2
+photo: Kio Jørgensen Ng
 ---
 
 ## HOW DO WE CHANGE OUR CITY THROUGH MEANINGFUL COMMUNITIES?
@@ -30,5 +31,3 @@ _Some of the topics and discussions of the day are presented, condensed and anal
 
 - [Digital debate](https://www.crowdcast.io/e/km21-14)
 - [Podcast](https://soundcloud.com/ccube_aarhus/daniel-episode)
-
-Credits to Kio Jørgensen Ng for the photos.

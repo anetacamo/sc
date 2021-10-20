@@ -1,5 +1,5 @@
 ---
-name: Culture is Always Rebelious
+name: 'Culture is Always Rebelious'
 date: 2021-08-19
 location: Frontløberne
 type: Podcasts

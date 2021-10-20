@@ -62,7 +62,7 @@ const Footer = () => {
               <Image path='/logos/tf.png' nameClass='imagelink large' />
             </Go>
             <h4>
-              SWEET CITY, 2021 | illustration and code by{' '}
+              SWEET CITY, 2021 | illustration, design and code by{' '}
               <Go to='http://anetacamo.github.io'>Aneta Camo</Go>
             </h4>
           </div>

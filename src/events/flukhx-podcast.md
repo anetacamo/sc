@@ -1,10 +1,11 @@
 ---
 date: 2021-08-11
 location: Frontløberne
-name: We Want to Restore Energy
+name: 'We Want to Restore Energy'
 type: Podcasts
 description: A conversation about FLUKHX, Sweet City and their cultural and political aspirations
 gallery: 1
+photo: Albert Krarup Madsen
 ---
 
 ## A CONVERSATION ABOUT FLUKHX, SWEET CITY AND THEIR CULTURAL AND POLITICAL ASPIRATIONS
