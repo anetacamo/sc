@@ -1,2 +1,0 @@
-(this.webpackJsonpsweetcity=this.webpackJsonpsweetcity||[]).push([[6],{212:function(t,e,s){"use strict";s.r(e),e.default=s.p+"static/media/flukhx-meeting.a285690b.md"}}]);
-//# sourceMappingURL=6.d78f059c.chunk.js.map
