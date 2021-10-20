@@ -1,2 +1,0 @@
-(this.webpackJsonpsweetcity=this.webpackJsonpsweetcity||[]).push([[4],{210:function(e,t,s){"use strict";s.r(t),t.default=s.p+"static/media/anders-anne.930a834e.md"}}]);
-//# sourceMappingURL=4.982390d0.chunk.js.map
