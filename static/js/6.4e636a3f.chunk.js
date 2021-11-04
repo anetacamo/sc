@@ -1,2 +1,0 @@
-(this.webpackJsonpsweetcity=this.webpackJsonpsweetcity||[]).push([[6],{212:function(t,e,c){"use strict";c.r(e),e.default=c.p+"static/media/blanca-mette.225acc76.md"}}]);
-//# sourceMappingURL=6.4e636a3f.chunk.js.map
