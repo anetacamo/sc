@@ -3,6 +3,7 @@ name: "Maybe we need a cultural passport for artists"
 date: 2021-10-30
 location: Aarhus Rådhus
 type: Podcasts
+gallery: 1
 description: Blanca and Mette look into the cultural scene of Aarhus: What is the role of culture when upbringing our children? And do we offer artists reasonable living conditions while profiting on their creative productions?
 ---
 

@@ -5,10 +5,9 @@ name: The Green Meeting
 codename: The <span class='green'>Green</span> Meeting
 type: Political Meetings
 description: Let's have the big conversation about climate and sustainability!
-
 ---
 
-## LET'S HAVE THE BIG CONVERSATION ABOUT CLIMATE AND SUSTAINABILITY! 
+## LET'S HAVE THE BIG CONVERSATION ABOUT CLIMATE AND SUSTAINABILITY!
 
 _The local elections might be the last chance to vote for politicains that in due time can act upon the climate changes. In four years, we might be too close to the 1,5 degree mark that the climate scientists warn us against._
 
@@ -20,13 +19,21 @@ The political meeting will consist of expert presentations, conversations with p
 
 _Programme:_
 15:00-15:15: Welcome
+
 15:15-16:00: Car-free city center
+
 16:00-16:30: Music
+
 16:30-17:15: Sustainable city development
+
 17:15-17:45: Music
+
 17:45-18:30: Biodiversity
+
 18:30-19:00: Music
+
 19:00-19:45: Political citizen involvement
+
 19:45-20:00: Goodnight
 
 The café of The Dome will be open – and it is possible to buy beverages and food.

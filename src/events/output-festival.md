@@ -5,6 +5,8 @@ location: Den Rå Hal, Godsbanen
 name: Output Festival
 type: Cultural Events
 description: Young artists debut in abundance – and we exhibit the youth's on take on the most urgent political agendas on artistic election posters
+photo: Jonathan Nothlev
+gallery: 9
 ---
 
 ## Young artists debut in abundance – and we exhibit the youth's on take on the most urgent political agendas on artistic election posters

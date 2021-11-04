@@ -4,6 +4,8 @@ moredays: 20-21 OCTOBER 2021
 location: DOKK1
 name: Do You Feel Like Speeking Out?
 type: Cultural Events
+gallery: 10
+photo: Jonathan Nothlev
 description: A space where young people’s voices can resonate and be heard by both citizens and politicians
 ---
 

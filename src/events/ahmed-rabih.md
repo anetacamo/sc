@@ -1,8 +1,9 @@
 ---
-name: "Is inclusion just about getting the immigrants out of Gellerup?"
+name: 'Is inclusion just about getting the immigrants out of Gellerup?'
 date: 2021-10-23
 location: Gellerup
 type: Podcasts
+gallery: 1
 description: Ahmed and Rabih talk about their shared background in Gellerup
 ---
 
