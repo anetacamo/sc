@@ -1,0 +1,2 @@
+(this.webpackJsonpsweetcity=this.webpackJsonpsweetcity||[]).push([[12],{218:function(t,s,c){"use strict";c.r(s),s.default=c.p+"static/media/hands-on-politics.5c769cf4.md"}}]);
+//# sourceMappingURL=12.87ea7eda.chunk.js.map
