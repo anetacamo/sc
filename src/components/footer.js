@@ -61,6 +61,9 @@ const Footer = () => {
             <Go to='https://www.tuborgfondet.dk'>
               <Image path='/logos/tf.png' nameClass='imagelink large' />
             </Go>
+            <Go to='https://www.kulturregion.dk/en/'>
+              <Image path='/logos/erc.png' nameClass='imagelink large erc' />
+            </Go>
             <h4>
               SWEET CITY, 2021 | illustration, design and code by{' '}
               <Go to='http://anetacamo.github.io'>Aneta Camo</Go>

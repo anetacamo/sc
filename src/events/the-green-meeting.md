@@ -18,6 +18,7 @@ Therefore, Den Grønne Studenterbevægelse (The Green Student's Movement) and SW
 The political meeting will consist of expert presentations, conversations with politicians and concerts. The framework of the conversations will be Den Grønne Studenterbevægelse's four "B"s: bæredygtigt byggeri (sustainable city development), biodiversitet (bviodiversity), bilfri midtby (car-free city center) and borgerinddragelse (political citizen involvement).
 
 _Programme:_
+
 15:00-15:15: Welcome
 
 15:15-16:00: Car-free city center

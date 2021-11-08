@@ -16,6 +16,12 @@ footer {
     &.large {
       width: calc(40% - 24px);
     }
+    &.erc {
+      max-width: 180px;
+      padding: 0;
+      height: 102px;
+      margin: -20px 12px;
+    }
   }
   img {
     object-fit: contain;
