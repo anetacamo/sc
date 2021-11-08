@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.ca3a2769.chunk.css",
-    "main.js": "/static/js/main.fc526a7f.chunk.js",
-    "main.js.map": "/static/js/main.fc526a7f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f5a81c43.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f5a81c43.js.map",
+    "main.js": "/static/js/main.a82ed486.chunk.js",
+    "main.js.map": "/static/js/main.a82ed486.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.efd36956.js",
+    "runtime-main.js.map": "/static/js/runtime-main.efd36956.js.map",
     "static/js/2.3b7761b6.chunk.js": "/static/js/2.3b7761b6.chunk.js",
     "static/js/2.3b7761b6.chunk.js.map": "/static/js/2.3b7761b6.chunk.js.map",
     "static/js/3.889cb864.chunk.js": "/static/js/3.889cb864.chunk.js",
@@ -33,14 +33,16 @@
     "static/js/14.88134b31.chunk.js.map": "/static/js/14.88134b31.chunk.js.map",
     "static/js/15.a6af51ad.chunk.js": "/static/js/15.a6af51ad.chunk.js",
     "static/js/15.a6af51ad.chunk.js.map": "/static/js/15.a6af51ad.chunk.js.map",
-    "static/js/16.c583c1f8.chunk.js": "/static/js/16.c583c1f8.chunk.js",
-    "static/js/16.c583c1f8.chunk.js.map": "/static/js/16.c583c1f8.chunk.js.map",
-    "static/js/17.3b715b6b.chunk.js": "/static/js/17.3b715b6b.chunk.js",
-    "static/js/17.3b715b6b.chunk.js.map": "/static/js/17.3b715b6b.chunk.js.map",
-    "static/js/18.9ebe67bc.chunk.js": "/static/js/18.9ebe67bc.chunk.js",
-    "static/js/18.9ebe67bc.chunk.js.map": "/static/js/18.9ebe67bc.chunk.js.map",
-    "static/js/19.638f5550.chunk.js": "/static/js/19.638f5550.chunk.js",
-    "static/js/19.638f5550.chunk.js.map": "/static/js/19.638f5550.chunk.js.map",
+    "static/js/16.6495c69f.chunk.js": "/static/js/16.6495c69f.chunk.js",
+    "static/js/16.6495c69f.chunk.js.map": "/static/js/16.6495c69f.chunk.js.map",
+    "static/js/17.4a55cf4c.chunk.js": "/static/js/17.4a55cf4c.chunk.js",
+    "static/js/17.4a55cf4c.chunk.js.map": "/static/js/17.4a55cf4c.chunk.js.map",
+    "static/js/18.88df0c71.chunk.js": "/static/js/18.88df0c71.chunk.js",
+    "static/js/18.88df0c71.chunk.js.map": "/static/js/18.88df0c71.chunk.js.map",
+    "static/js/19.e740366c.chunk.js": "/static/js/19.e740366c.chunk.js",
+    "static/js/19.e740366c.chunk.js.map": "/static/js/19.e740366c.chunk.js.map",
+    "static/js/20.043b7e58.chunk.js": "/static/js/20.043b7e58.chunk.js",
+    "static/js/20.043b7e58.chunk.js.map": "/static/js/20.043b7e58.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.ca3a2769.chunk.css.map": "/static/css/main.ca3a2769.chunk.css.map",
     "static/js/2.3b7761b6.chunk.js.LICENSE.txt": "/static/js/2.3b7761b6.chunk.js.LICENSE.txt",
@@ -58,15 +60,16 @@
     "static/media/output-festival.md": "/static/media/output-festival.a7b06b62.md",
     "static/media/poster-workshop.md": "/static/media/poster-workshop.604af519.md",
     "static/media/public-hearings-and-city-development.md": "/static/media/public-hearings-and-city-development.03d135ca.md",
+    "static/media/sweet-region.md": "/static/media/sweet-region.67695f4c.md",
     "static/media/the-green-meeting.md": "/static/media/the-green-meeting.b22c81c3.md",
     "static/media/tools-for-change.md": "/static/media/tools-for-change.b900a8cf.md",
     "static/media/transformative-communities-podcast.md": "/static/media/transformative-communities-podcast.c203460c.md",
     "static/media/transformative-youth-communities.md": "/static/media/transformative-youth-communities.c0e4f465.md"
   },
   "entrypoints": [
-    "static/js/runtime-main.f5a81c43.js",
+    "static/js/runtime-main.efd36956.js",
     "static/js/2.3b7761b6.chunk.js",
     "static/css/main.ca3a2769.chunk.css",
-    "static/js/main.fc526a7f.chunk.js"
+    "static/js/main.a82ed486.chunk.js"
   ]
 }
