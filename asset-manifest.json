@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.ca3a2769.chunk.css",
-    "main.js": "/static/js/main.a82ed486.chunk.js",
-    "main.js.map": "/static/js/main.a82ed486.chunk.js.map",
+    "main.css": "/static/css/main.157b4885.chunk.css",
+    "main.js": "/static/js/main.6ee09880.chunk.js",
+    "main.js.map": "/static/js/main.6ee09880.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.efd36956.js",
     "runtime-main.js.map": "/static/js/runtime-main.efd36956.js.map",
     "static/js/2.3b7761b6.chunk.js": "/static/js/2.3b7761b6.chunk.js",
@@ -44,7 +44,7 @@
     "static/js/20.043b7e58.chunk.js": "/static/js/20.043b7e58.chunk.js",
     "static/js/20.043b7e58.chunk.js.map": "/static/js/20.043b7e58.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.ca3a2769.chunk.css.map": "/static/css/main.ca3a2769.chunk.css.map",
+    "static/css/main.157b4885.chunk.css.map": "/static/css/main.157b4885.chunk.css.map",
     "static/js/2.3b7761b6.chunk.js.LICENSE.txt": "/static/js/2.3b7761b6.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/static/media/steps2.12b3d5b5.png",
     "static/media/aarhusfutura.md": "/static/media/aarhusfutura.c0dbba06.md",
@@ -69,7 +69,7 @@
   "entrypoints": [
     "static/js/runtime-main.efd36956.js",
     "static/js/2.3b7761b6.chunk.js",
-    "static/css/main.ca3a2769.chunk.css",
-    "static/js/main.a82ed486.chunk.js"
+    "static/css/main.157b4885.chunk.css",
+    "static/js/main.6ee09880.chunk.js"
   ]
 }
