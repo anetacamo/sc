@@ -9,7 +9,7 @@ photo: Jonathan Nothlev
 gallery: 9
 ---
 
-## Young artists debut in abundance – and we exhibit the youth's on take on the most urgent political agendas on artistic election posters
+## Young artists debuted in abundance – and we exhibited the youth's take on the most urgent political agendas on artistic election posters
 
 In october the artistic, youth celebration OUTPUT Festival took place. As a part of the festival, we exhibited a bunch of election posters created by young Aarhusians as a political commentary on the usual aesthetics of politics – showcasing their most urgent political agendas.
 
