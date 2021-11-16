@@ -12,10 +12,8 @@ description: A space where young people’s voices can resonate and be heard by 
 
 ## A democratic society requires citizens to have a political opinion and to engage with democratic practices: Do you feel like speeking out?
 
-DO YOU FEEL LIKE SPEAKING OUT? is an interactive art installation, aiming to create a space where young people’s voices can resonate and be heard by both citizens and politicians.
+DO YOU FEEL LIKE SPEAKING OUT? was an interactive art installation, aiming to create a space where young people’s voices can resonate and be heard by both citizens and politicians.
 
-The installation can be found on _the upper stair at DOKK1._
+The installation was exhibited at _the upper stair at DOKK1._ During the two days people came by and shared their voices, hopes and opinions and other listened to them as they were broadcasted out in the library.
 
-We invite youths between 15 and 35 to participate and take part in our interactive exhibition, or just to come by and support the cause and listen to other people's voice.
-
-The installation is created by _Beatriz Gonzalez Rodriguez_ for UAC - Useful Art for Communities: https://uacartplatform.com/
+The installation was created by _Beatriz Gonzalez Rodriguez_ for UAC - Useful Art for Communities: https://uacartplatform.com/

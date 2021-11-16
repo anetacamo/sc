@@ -11,15 +11,13 @@ description: Take data by the horns and make it an essential part of enabling yo
 
 ## TAKE DATA BY THE HORNS AND MAKE IT AN ESSENTIAL PART OF ENABLING YOUR BELIEFS AND PROJECTS.
 
-_The event is free of charge, but you need to register here: https://9uwfeiwfk89.typeform.com/to/EP4GC548_
-
 _WHAT?_
-On this edition of the Policy Labs of SWEET CITY, we invite you to boost your initiatives and support your cause more effectively in ways that also sharpen up your political thought.
+On this edition of the Policy Labs of SWEET CITY, we invited Aarhus' youth to boost their initiatives and support their cause more effectively in ways that also sharpen up their political thought.
 
 _HOW?_
-We will tap into your past and present experience making a project, joining an initiative or trying to defend a cause, and level it up with essential data-collection concepts and tools. Nothing fancy, everything useful.
+We will tapped into your past and present experience making a project, joining an initiative or trying to defend a cause, and level it up with essential data-collection concepts and tools. Nothing fancy, everything useful.
 
-_INTENTION_
+_INTENTION OF THE WORKSHOP WAS TO_
 
 - To facilitate a more friendly view on how data can benefit the project-making process
 - To discover fresh overlaps between working on your cause and evaluating political content
