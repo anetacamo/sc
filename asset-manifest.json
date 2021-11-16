@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.157b4885.chunk.css",
-    "main.js": "/static/js/main.6ee09880.chunk.js",
-    "main.js.map": "/static/js/main.6ee09880.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.efd36956.js",
-    "runtime-main.js.map": "/static/js/runtime-main.efd36956.js.map",
+    "main.js": "/static/js/main.c7f5dc8c.chunk.js",
+    "main.js.map": "/static/js/main.c7f5dc8c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.05055aed.js",
+    "runtime-main.js.map": "/static/js/runtime-main.05055aed.js.map",
     "static/js/2.3b7761b6.chunk.js": "/static/js/2.3b7761b6.chunk.js",
     "static/js/2.3b7761b6.chunk.js.map": "/static/js/2.3b7761b6.chunk.js.map",
     "static/js/3.889cb864.chunk.js": "/static/js/3.889cb864.chunk.js",
@@ -15,8 +15,8 @@
     "static/js/5.72f158cd.chunk.js.map": "/static/js/5.72f158cd.chunk.js.map",
     "static/js/6.d8c3277e.chunk.js": "/static/js/6.d8c3277e.chunk.js",
     "static/js/6.d8c3277e.chunk.js.map": "/static/js/6.d8c3277e.chunk.js.map",
-    "static/js/7.ea71bf73.chunk.js": "/static/js/7.ea71bf73.chunk.js",
-    "static/js/7.ea71bf73.chunk.js.map": "/static/js/7.ea71bf73.chunk.js.map",
+    "static/js/7.32620162.chunk.js": "/static/js/7.32620162.chunk.js",
+    "static/js/7.32620162.chunk.js.map": "/static/js/7.32620162.chunk.js.map",
     "static/js/8.200e343c.chunk.js": "/static/js/8.200e343c.chunk.js",
     "static/js/8.200e343c.chunk.js.map": "/static/js/8.200e343c.chunk.js.map",
     "static/js/9.952772d4.chunk.js": "/static/js/9.952772d4.chunk.js",
@@ -25,8 +25,8 @@
     "static/js/10.aeeb5ef3.chunk.js.map": "/static/js/10.aeeb5ef3.chunk.js.map",
     "static/js/11.a3660a31.chunk.js": "/static/js/11.a3660a31.chunk.js",
     "static/js/11.a3660a31.chunk.js.map": "/static/js/11.a3660a31.chunk.js.map",
-    "static/js/12.87ea7eda.chunk.js": "/static/js/12.87ea7eda.chunk.js",
-    "static/js/12.87ea7eda.chunk.js.map": "/static/js/12.87ea7eda.chunk.js.map",
+    "static/js/12.7751654e.chunk.js": "/static/js/12.7751654e.chunk.js",
+    "static/js/12.7751654e.chunk.js.map": "/static/js/12.7751654e.chunk.js.map",
     "static/js/13.4daaaff5.chunk.js": "/static/js/13.4daaaff5.chunk.js",
     "static/js/13.4daaaff5.chunk.js.map": "/static/js/13.4daaaff5.chunk.js.map",
     "static/js/14.88134b31.chunk.js": "/static/js/14.88134b31.chunk.js",
@@ -51,12 +51,12 @@
     "static/media/ahmed-rabih.md": "/static/media/ahmed-rabih.0c35541e.md",
     "static/media/anders-anne.md": "/static/media/anders-anne.a2106faf.md",
     "static/media/blanca-mette.md": "/static/media/blanca-mette.de8f0faf.md",
-    "static/media/data-from-scary-to-sexy.md": "/static/media/data-from-scary-to-sexy.5afeca3f.md",
+    "static/media/data-from-scary-to-sexy.md": "/static/media/data-from-scary-to-sexy.174254dc.md",
     "static/media/do-you-feel-like-speeking-out.md": "/static/media/do-you-feel-like-speeking-out.5801a8c6.md",
     "static/media/flukhx-mashup.md": "/static/media/flukhx-mashup.68c73116.md",
     "static/media/flukhx-meeting.md": "/static/media/flukhx-meeting.a285690b.md",
     "static/media/flukhx-podcast.md": "/static/media/flukhx-podcast.f7c0dc09.md",
-    "static/media/hands-on-politics.md": "/static/media/hands-on-politics.5c769cf4.md",
+    "static/media/hands-on-politics.md": "/static/media/hands-on-politics.afc71ffa.md",
     "static/media/output-festival.md": "/static/media/output-festival.a7b06b62.md",
     "static/media/poster-workshop.md": "/static/media/poster-workshop.604af519.md",
     "static/media/public-hearings-and-city-development.md": "/static/media/public-hearings-and-city-development.03d135ca.md",
@@ -67,9 +67,9 @@
     "static/media/transformative-youth-communities.md": "/static/media/transformative-youth-communities.c0e4f465.md"
   },
   "entrypoints": [
-    "static/js/runtime-main.efd36956.js",
+    "static/js/runtime-main.05055aed.js",
     "static/js/2.3b7761b6.chunk.js",
     "static/css/main.157b4885.chunk.css",
-    "static/js/main.6ee09880.chunk.js"
+    "static/js/main.c7f5dc8c.chunk.js"
   ]
 }
