@@ -3,6 +3,9 @@ date: 2021-11-01
 location: UKH
 name: Hands-On Politics
 type: Political Meetings
+gallery: 15
+cover: 4
+photo: Jonathan Nothlev
 description: The regular political meeting re-thought: a space to stand up, forget our roles for a while, and blend together into action.
 ---
 
