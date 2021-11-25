@@ -9,7 +9,7 @@ description: Blanca and Mette look into the cultural scene of Aarhus: What is th
 
 ## Blanca and Mette look into the cultural scene of Aarhus: What is the role of culture when upbringing our children? And do we offer artists reasonable living conditions while profiting on their creative productions?
 
-Listen to this second episode of the podcast series SWEET CITY TALKS – in which we create intimate conversations about urgent topics in the world of young Aarhusians. One to one; youth to politician – in a shared attempt to shape a better city.
+Listen to this third episode of the podcast series SWEET CITY TALKS – in which we create intimate conversations about urgent topics in the world of young Aarhusians. One to one; youth to politician – in a shared attempt to shape a better city.
 
 [Listen to the podcast on Spotify here](https://open.spotify.com/episode/6dVkfhUnju8Hg9H7aX0az5?si=E-wCgQ73R9y1WnhyPSwHxQ)
 
