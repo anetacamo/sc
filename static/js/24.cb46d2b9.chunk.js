@@ -1,0 +1,2 @@
+(this.webpackJsonpsweetcity=this.webpackJsonpsweetcity||[]).push([[24],{230:function(t,s,e){"use strict";e.r(s),s.default=e.p+"static/media/valgfest.fd7c508f.md"}}]);
+//# sourceMappingURL=24.cb46d2b9.chunk.js.map
