@@ -4,6 +4,8 @@ location: A-Huset, Institut for (X)
 name: Election Bar
 type: Cultural Events
 description: On election day, we celebrated half a year of youthful democratic activities by voting, feasting and saluting!
+gallery: 9
+photo: Jonathan Notlev
 ---
 
 ## On election day, we celebrated half a year of youthful democratic activities by voting, feasting and saluting!
