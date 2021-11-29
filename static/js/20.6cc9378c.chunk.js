@@ -1,2 +1,0 @@
-(this.webpackJsonpsweetcity=this.webpackJsonpsweetcity||[]).push([[20],{226:function(e,t,s){"use strict";s.r(t),t.default=s.p+"static/media/the-green-meeting.dab3fda7.md"}}]);
-//# sourceMappingURL=20.6cc9378c.chunk.js.map

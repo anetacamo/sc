@@ -1,0 +1,2 @@
+(this.webpackJsonpsweetcity=this.webpackJsonpsweetcity||[]).push([[19],{226:function(e,t,s){"use strict";s.r(t),t.default=s.p+"static/media/sweet-region.ec1e6cfa.md"}}]);
+//# sourceMappingURL=19.8daa12f5.chunk.js.map

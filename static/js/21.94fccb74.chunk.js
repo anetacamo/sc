@@ -1,2 +1,0 @@
-(this.webpackJsonpsweetcity=this.webpackJsonpsweetcity||[]).push([[21],{227:function(t,s,e){"use strict";e.r(s),s.default=e.p+"static/media/tools-for-change.b900a8cf.md"}}]);
-//# sourceMappingURL=21.94fccb74.chunk.js.map
