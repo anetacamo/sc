@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.157b4885.chunk.css",
-    "main.js": "/static/js/main.105b5ccf.chunk.js",
-    "main.js.map": "/static/js/main.105b5ccf.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.18a091bd.js",
-    "runtime-main.js.map": "/static/js/runtime-main.18a091bd.js.map",
+    "main.js": "/static/js/main.d6d1a4b9.chunk.js",
+    "main.js.map": "/static/js/main.d6d1a4b9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0c19fdcd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0c19fdcd.js.map",
     "static/js/2.3b7761b6.chunk.js": "/static/js/2.3b7761b6.chunk.js",
     "static/js/2.3b7761b6.chunk.js.map": "/static/js/2.3b7761b6.chunk.js.map",
     "static/js/3.889cb864.chunk.js": "/static/js/3.889cb864.chunk.js",
     "static/js/3.889cb864.chunk.js.map": "/static/js/3.889cb864.chunk.js.map",
     "static/js/4.9dc3ce1a.chunk.js": "/static/js/4.9dc3ce1a.chunk.js",
     "static/js/4.9dc3ce1a.chunk.js.map": "/static/js/4.9dc3ce1a.chunk.js.map",
-    "static/js/5.16384806.chunk.js": "/static/js/5.16384806.chunk.js",
-    "static/js/5.16384806.chunk.js.map": "/static/js/5.16384806.chunk.js.map",
+    "static/js/5.0ee53069.chunk.js": "/static/js/5.0ee53069.chunk.js",
+    "static/js/5.0ee53069.chunk.js.map": "/static/js/5.0ee53069.chunk.js.map",
     "static/js/6.9f186b99.chunk.js": "/static/js/6.9f186b99.chunk.js",
     "static/js/6.9f186b99.chunk.js.map": "/static/js/6.9f186b99.chunk.js.map",
     "static/js/7.6145b23a.chunk.js": "/static/js/7.6145b23a.chunk.js",
@@ -39,8 +39,8 @@
     "static/js/17.a8c98b5e.chunk.js.map": "/static/js/17.a8c98b5e.chunk.js.map",
     "static/js/18.77e73e87.chunk.js": "/static/js/18.77e73e87.chunk.js",
     "static/js/18.77e73e87.chunk.js.map": "/static/js/18.77e73e87.chunk.js.map",
-    "static/js/19.8fdf6580.chunk.js": "/static/js/19.8fdf6580.chunk.js",
-    "static/js/19.8fdf6580.chunk.js.map": "/static/js/19.8fdf6580.chunk.js.map",
+    "static/js/19.90c3b1b1.chunk.js": "/static/js/19.90c3b1b1.chunk.js",
+    "static/js/19.90c3b1b1.chunk.js.map": "/static/js/19.90c3b1b1.chunk.js.map",
     "static/js/20.a92bde3c.chunk.js": "/static/js/20.a92bde3c.chunk.js",
     "static/js/20.a92bde3c.chunk.js.map": "/static/js/20.a92bde3c.chunk.js.map",
     "static/js/21.94fccb74.chunk.js": "/static/js/21.94fccb74.chunk.js",
@@ -57,7 +57,7 @@
     "static/media/style.scss": "/static/media/steps2.12b3d5b5.png",
     "static/media/aarhusfutura.md": "/static/media/aarhusfutura.c0dbba06.md",
     "static/media/ahmed-rabih.md": "/static/media/ahmed-rabih.0c35541e.md",
-    "static/media/amanda-jesper.md": "/static/media/amanda-jesper.0f0663d6.md",
+    "static/media/amanda-jesper.md": "/static/media/amanda-jesper.cbadbdd2.md",
     "static/media/anders-anne.md": "/static/media/anders-anne.a2106faf.md",
     "static/media/blanca-mette.md": "/static/media/blanca-mette.93b99492.md",
     "static/media/data-from-scary-to-sexy.md": "/static/media/data-from-scary-to-sexy.a1ab4765.md",
@@ -71,7 +71,7 @@
     "static/media/output-festival.md": "/static/media/output-festival.b846c527.md",
     "static/media/poster-workshop.md": "/static/media/poster-workshop.604af519.md",
     "static/media/public-hearings-and-city-development.md": "/static/media/public-hearings-and-city-development.03d135ca.md",
-    "static/media/sweet-region.md": "/static/media/sweet-region.67695f4c.md",
+    "static/media/sweet-region.md": "/static/media/sweet-region.ec1e6cfa.md",
     "static/media/the-green-meeting.md": "/static/media/the-green-meeting.b22c81c3.md",
     "static/media/tools-for-change.md": "/static/media/tools-for-change.b900a8cf.md",
     "static/media/transformative-communities-podcast.md": "/static/media/transformative-communities-podcast.c203460c.md",
@@ -79,9 +79,9 @@
     "static/media/valgfest.md": "/static/media/valgfest.c363898d.md"
   },
   "entrypoints": [
-    "static/js/runtime-main.18a091bd.js",
+    "static/js/runtime-main.0c19fdcd.js",
     "static/js/2.3b7761b6.chunk.js",
     "static/css/main.157b4885.chunk.css",
-    "static/js/main.105b5ccf.chunk.js"
+    "static/js/main.d6d1a4b9.chunk.js"
   ]
 }

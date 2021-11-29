@@ -3,6 +3,7 @@ name: "It won't be easy, but it is deadly necessary that we act!"
 date: 2021-11-06
 location: Vesterbro Torv
 type: Podcasts
+gallery: 1
 description: Amanda and Jesper talk sustainability and transportation in Aarhus. How does Aarhus become a green vanguard? Can we make a car free city center? And what role does Aarhus Harbour play in or against the green transition?
 ---
 
