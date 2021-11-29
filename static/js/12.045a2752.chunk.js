@@ -1,0 +1,2 @@
+(this.webpackJsonpsweetcity=this.webpackJsonpsweetcity||[]).push([[12],{219:function(t,e,s){"use strict";s.r(e),e.default=s.p+"static/media/it-wont-be-easy-but-it-is-deadly-necessary-that-we-act.42450bc9.md"}}]);
+//# sourceMappingURL=12.045a2752.chunk.js.map

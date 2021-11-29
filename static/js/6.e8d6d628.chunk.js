@@ -1,0 +1,2 @@
+(this.webpackJsonpsweetcity=this.webpackJsonpsweetcity||[]).push([[6],{213:function(e,t,s){"use strict";s.r(t),t.default=s.p+"static/media/election-bar.beec36ea.md"}}]);
+//# sourceMappingURL=6.e8d6d628.chunk.js.map

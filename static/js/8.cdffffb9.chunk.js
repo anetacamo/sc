@@ -1,2 +1,0 @@
-(this.webpackJsonpsweetcity=this.webpackJsonpsweetcity||[]).push([[8],{215:function(t,s,a){"use strict";a.r(s),s.default=a.p+"static/media/data-from-scary-to-sexy.a1ab4765.md"}}]);
-//# sourceMappingURL=8.cdffffb9.chunk.js.map

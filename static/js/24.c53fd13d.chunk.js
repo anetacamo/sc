@@ -1,0 +1,2 @@
+(this.webpackJsonpsweetcity=this.webpackJsonpsweetcity||[]).push([[24],{231:function(t,a,e){"use strict";e.r(a),a.default=e.p+"static/media/we-lack-an-alternative-to-the-national-film-school-in-copenhagen.a99b4aa2.md"}}]);
+//# sourceMappingURL=24.c53fd13d.chunk.js.map

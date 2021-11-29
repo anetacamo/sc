@@ -1,0 +1,2 @@
+(this.webpackJsonpsweetcity=this.webpackJsonpsweetcity||[]).push([[14],{221:function(t,s,e){"use strict";e.r(s),s.default=e.p+"static/media/maybe-we-need-a-cultural-passport-for-artists.06343217.md"}}]);
+//# sourceMappingURL=14.858d3629.chunk.js.map
