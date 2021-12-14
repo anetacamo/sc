@@ -4,6 +4,8 @@ location: UKH
 name: Sweet Region
 type: Political Meetings
 description: Does the region even concern me? Quite a bit, and we'll show you why you should care about the regional elections
+gallery: 8
+photo: Nicolai Hildebrand
 ---
 
 ## Does the region even concern me? Quite a bit, and we'll show you why you should care about the regional elections

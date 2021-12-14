@@ -67,3 +67,15 @@ footer {
 .about-logo {
   max-width: 350px;
 }
+
+.postcard-container {
+  display: flex;
+  height: 400px;
+  width: 100%;
+  margin: auto;
+  justify-content: center;
+  img {
+    width: auto;
+    margin: 8px;
+  }
+}

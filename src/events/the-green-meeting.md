@@ -5,6 +5,8 @@ name: The Green Meeting
 codename: The <span class='green'>Green</span> Meeting
 type: Political Meetings
 description: Let's have the big conversation about climate and sustainability!
+gallery: 8
+photo: Jonathan Notlev
 ---
 
 ## LET'S HAVE THE BIG CONVERSATION ABOUT CLIMATE AND SUSTAINABILITY!

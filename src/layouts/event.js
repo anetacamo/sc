@@ -15,6 +15,8 @@ import MetaTags from '../components/metaTags';
 import { slugify } from '../utils/slugify';
 import { getCurrentDate } from '../utils/date';
 
+import Compress from 'react-image-file-resizer';
+
 const EventLayout = ({ match }) => {
   let title = match.params.name;
 
@@ -51,7 +53,6 @@ const EventLayout = ({ match }) => {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [text, eventText]);
 
-  console.log(nameLength);
   return (
     <>
       <MetaTags

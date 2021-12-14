@@ -80,6 +80,23 @@ const Home = () => {
         </div>
       </section>
 
+      <section className='center bg-blue evtypes'>
+        <h2>Letters</h2>
+        <p>Few of your letters</p>
+        <div className='postcard-container'>
+          <Image path='/postcards/Postkort1.jpeg' nameClass='logo' />
+          <Image path='/postcards/Postkort2.jpeg' nameClass='logo' />
+          <Image path='/postcards/Postkort3.jpeg' nameClass='logo' />
+          <Image path='/postcards/Postkort4.jpeg' nameClass='logo' />
+        </div>
+        <div className='postcard-container'>
+          <Image path='/postcards/Postkort5.jpeg' nameClass='logo' />
+          <Image path='/postcards/Postkort6.jpeg' nameClass='logo' />
+          <Image path='/postcards/Postkort7.jpeg' nameClass='logo' />
+          <Image path='/postcards/Postkort9.jpeg' nameClass='logo' />
+        </div>
+      </section>
+
       <section className='center bg-black evtypes'>
         <h2>Make a change</h2>
         <p>
