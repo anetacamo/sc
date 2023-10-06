@@ -1,0 +1,62 @@
+.ev-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0;
+  .inside {
+    width: 100%;
+    transition-duration: 350ms;
+    background-position: center;
+    background-size: cover;
+    img {
+      object-fit: cover;
+    }
+  }
+
+  .text {
+    position: absolute;
+    text-align: center;
+    h3,
+    h5 {
+      margin: 4px 0;
+    }
+    h5:last-of-type {
+      margin-bottom: 14px;
+    }
+    button {
+      margin-top: 16px;
+      @media (max-width: 800px) {
+        display: none;
+      }
+    }
+  }
+}
+
+.carousel-event {
+  min-width: 320px;
+  max-width: 400px;
+  height: 280px;
+  margin: 24px;
+  @media (max-width: 800px) {
+    min-width: 240px;
+    max-width: 340px;
+    height: 280px;
+    margin: 8px 0;
+  }
+
+  .text {
+    width: 300px;
+    padding: 0 40px;
+    @media (max-width: 800px) {
+      width: 200px;
+    }
+  }
+}
+
+.event-event {
+  width: 360px;
+  height: 360px;
+  margin-bottom: -160px;
+  margin-top: -24px;
+  margin-left: -32px;
+}

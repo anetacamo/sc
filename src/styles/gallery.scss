@@ -1,0 +1,29 @@
+.gallery {
+  h4,
+  p {
+    max-width: 1200px;
+  }
+  .gallery-holder {
+    max-width: 1200px;
+    margin: auto;
+    .container {
+      flex-wrap: wrap;
+      justify-content: center;
+      max-width: 1200px;
+      margin: -8px;
+      @media (max-width: 846px) {
+        a {
+          min-width: 120px;
+        }
+      }
+      a {
+        min-width: 320px;
+        flex-grow: 4;
+        max-width: 800px;
+        margin: 8px;
+        background-size: cover;
+        flex: 1;
+      }
+    }
+  }
+}

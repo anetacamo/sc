@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Cultural Events",
+    "description": "Democratic dialogue is also about empathy - the willingness and ability to visit, understand and share each other's worlds. Therefore, we also facilitate meetings between youths and policy makers in the real world. Outside of the political stage we encourage politicians to interact with the living youth cultural scene of Aarhus through handpicked youth cultural events.",
+    "short": "we encourage politicians to interact with the living youth cultural scene of Aarhus through handpicked youth cultural events.",
+    "color": "red",
+    "color2": "lightgray",
+    "colorHover": "blue",
+    "shortName": "Cultural Events",
+    "letterNum": 5
+  },
+  {
+    "name": "Political Meetings",
+    "description": "In new, creative variations of the classic electoral meeting, we want to stage the political meetings that puts the spotlight on the youth. This is the big communal meeting between politicians and youths of Aarhus.",
+    "short": "In new, creative variations of the classic electoral meeting, we want to stage the political meetings that puts the spotlight on the youth.",
+    "color": "yellow",
+    "color2": "red",
+    "colorHover": "white",
+    "shortName": "Political Meetings",
+    "letterNum": 6
+  },
+  {
+    "name": "Podcasts",
+    "description": "In a series of podcasts we facilitate something that is way too rare these days: authentic meetings between a young person and its politician. In this series, we aim to create intimate conversations about urgent topics in the world of young Aarhusians. One to one; youth to politician.",
+    "short": "In this series, we aim to create intimate conversations about urgent topics in the world of young Aarhusians. One to one; youth to politician.",
+    "color": "lightgray",
+    "color2": "blue",
+    "colorHover": "yellow",
+    "shortName": "Podcasts",
+    "letterNum": 4
+  },
+  {
+    "name": "Policy Labs",
+    "description": "Through participatory lab sessions, we explore different sorts democratic action that by-passes electoral politics - be it positive activism, artistic practices or city development. Together with experts and inspirators, we examine how we can change the world ourselve",
+    "short": "Through participatory lab sessions, we explore different sorts democratic action that by-passes electoral politics",
+    "color": "blue",
+    "color2": "yellow",
+    "colorHover": "red",
+    "shortName": "Policy Labs",
+    "letterNum": 6
+  }
+]

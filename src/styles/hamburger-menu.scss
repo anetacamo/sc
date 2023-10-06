@@ -1,0 +1,45 @@
+/* classes for the menu animation */
+.hamburger {
+  @media (min-width: 1000px) {
+    display: none;
+  }
+}
+.hamburger-menu {
+  padding-top: 6px;
+  cursor: pointer;
+  margin-left: auto;
+  width: 36px;
+  position: relative;
+  z-index: 5;
+  .icon-bar {
+    width: 40px;
+    height: 8px;
+    margin-bottom: 6px;
+    position: relative;
+    transition: 350ms ease;
+    background-image: url($rooturl + '/images/line.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
+.bar-01 {
+  @extend .filter-blue;
+  &.opened {
+    transform: rotate(45deg);
+    top: 10px;
+  }
+}
+.bar-02 {
+  @extend .filter-red;
+  &.opened {
+    display: none;
+  }
+}
+.bar-03 {
+  @extend .filter-yellow;
+  &.opened {
+    transform: rotate(-45deg);
+    @extend .filter-blue;
+  }
+}

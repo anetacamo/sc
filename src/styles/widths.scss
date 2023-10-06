@@ -1,0 +1,81 @@
+.container {
+  max-width: 900px;
+  margin: auto;
+}
+.container-wide {
+  max-width: 1000px;
+  margin: 48px auto;
+}
+
+section,
+footer {
+  padding: 80px 40px;
+  position: relative;
+}
+@media (max-width: 800px) {
+  section,
+  footer {
+    padding: 48px 24px;
+  }
+}
+.full {
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+.center {
+  text-align: center;
+}
+
+/* flex classes */
+.flex {
+  display: flex;
+}
+.flex-wrap {
+  display: flex;
+  flex-wrap: wrap;
+}
+.flex-center {
+  display: flex;
+  justify-content: center;
+}
+.flex-between {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.reversed {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+/* carousel */
+
+.dissapear {
+  opacity: 0;
+  transition-duration: 500ms;
+  transition-delay: 500ms;
+}
+.quote {
+  height: 160px;
+  display: flex;
+  align-items: center;
+  padding: 0 32px;
+}
+
+/* about */
+.about-logo {
+  max-width: 350px;
+}
+
+.postcard-container {
+  display: flex;
+  height: 400px;
+  width: 100%;
+  margin: auto;
+  justify-content: center;
+  img {
+    width: auto;
+    margin: 8px;
+  }
+}

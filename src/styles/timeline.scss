@@ -1,0 +1,160 @@
+.timeline {
+  padding: 0 40px;
+  .container-wide {
+    margin: 0 auto;
+  }
+  &.bg-white {
+    background-image: url($rooturl + '/images/bg3b.png');
+    background-size: contain;
+    background-position: bottom;
+    background-repeat: no-repeat;
+  }
+}
+
+.movedup {
+  margin-top: -80px !important;
+}
+.moveddown {
+  margin-top: 160px !important;
+}
+
+.timeline-container {
+  @media (min-width: 600px) {
+    width: 49%;
+
+    align-content: flex-start;
+  }
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+/* line */
+.timeline-line {
+  width: 180px;
+  background-image: url($rooturl + '/images/steps2.png');
+  background-size: 100% auto;
+  background-position: top;
+  &.inverted {
+    filter: invert(1);
+  }
+  @media (max-width: 1000px) {
+    display: none;
+  }
+}
+
+.timeline-text {
+  padding: 0 32px;
+  text-align: center;
+  z-index: 3;
+}
+
+/* timeline events */
+.podcasts,
+.policy-lab,
+.political-meetings,
+.cultural-events {
+  transition-duration: 350ms;
+}
+
+.policy-labs {
+  &.inside {
+    background-color: var(--blue);
+  }
+  &.inside:hover {
+    background-color: var(--red);
+  }
+  h3 {
+    color: white;
+  }
+  h5 {
+    color: var(--yellow);
+  }
+}
+
+.political-meetings {
+  &.inside {
+    background-color: var(--yellow);
+    &:hover {
+      background-color: white;
+    }
+  }
+  h5 {
+    color: var(--blue);
+  }
+  h3 {
+    color: black;
+  }
+}
+.political-meetings button {
+  @extend .btn-red;
+}
+.cultural-events button {
+  @extend .btn-black;
+}
+
+.cultural-events {
+  &.inside {
+    background-color: var(--red);
+    &:hover {
+      background-color: var(--yellow);
+    }
+  }
+  h5 {
+    color: var(--blue);
+  }
+  h3 {
+    color: white;
+  }
+}
+
+.podcasts {
+  &.inside {
+    background-color: white;
+    &:hover {
+      background-color: var(--blue);
+    }
+  }
+  h5 {
+    color: var(--red);
+  }
+  h3 {
+    color: black;
+  }
+  &.h4 {
+    color: var(--blue);
+  }
+  &:hover h3 {
+    color: white;
+  }
+}
+
+.inside {
+  background-color: white;
+  &:hover {
+    background-color: var(--blue);
+  }
+}
+
+.timeline-event {
+  width: 360px;
+  height: 600px;
+  @media (max-width: 1000px) {
+    height: 400px;
+  }
+  @media (max-width: 600px) {
+    height: 320px;
+    width: 320px;
+  }
+  .text {
+    width: 280px;
+    pointer-events: none;
+    @media (max-width: 800px) {
+      width: 280px;
+    }
+  }
+  button {
+    @media (max-width: 800px) {
+      display: none;
+    }
+  }
+}

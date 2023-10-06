@@ -1,0 +1,38 @@
+button {
+  font-size: 14px;
+  font-family: Tourney;
+  font-weight: 800;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--yellow);
+  border: 3px solid var(--yellow);
+  text-align: center;
+
+  border-bottom-width: 8px;
+  border-radius: 16px;
+  background-color: transparent;
+  cursor: pointer;
+  padding: 10px 14px;
+  padding-top: 11px;
+}
+button:hover {
+  border-bottom-width: 3px;
+  transition-duration: 350ms;
+  margin-top: 5px;
+}
+
+$colors: 'red', 'yellow', 'blue', 'lightgray', 'black', 'white';
+
+@each $color in $colors {
+  .btn-#{$color} {
+    border-color: var(--#{$color});
+    color: var(--#{$color});
+  }
+}
+
+@each $color in $colors {
+  .btn-hover-#{$color}:hover {
+    border-color: var(--#{$color});
+    color: var(--#{$color});
+  }
+}

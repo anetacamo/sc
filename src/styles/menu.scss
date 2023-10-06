@@ -1,0 +1,60 @@
+.menu {
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 6px 24px;
+  box-sizing: border-box;
+  h4 {
+    margin: 0;
+    line-height: 1.2;
+    padding-left: 8px;
+    max-width: 100px;
+  }
+  li:hover a {
+    color: white;
+  }
+  a {
+    padding: 8px;
+    display: flex;
+    align-items: center;
+  }
+  img {
+    max-width: 60px;
+    max-height: 40px;
+    object-fit: contain;
+  }
+  @media (max-width: 1000px) {
+    padding: 6px 16px;
+  }
+}
+
+a .logo {
+  color: var(--blue);
+}
+a:hover .logo {
+  color: var(--blue);
+}
+
+a:hover .cultural-events {
+  color: var(--yellow);
+}
+
+a:hover .political-meetings {
+  color: white;
+}
+
+a:hover .podcasts {
+  color: var(--red);
+}
+
+a:hover .policy-lab {
+  color: var(--red);
+}
+
+.menu a {
+  cursor: pointer;
+}
