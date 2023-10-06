@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sc/static/css/main.accac72b.css",
-    "main.js": "/sc/static/js/main.db9b3c33.js",
+    "main.css": "/sc/static/css/main.6b8ade2a.css",
+    "main.js": "/sc/static/js/main.459a3ad3.js",
     "static/js/373.131116f9.chunk.js": "/sc/static/js/373.131116f9.chunk.js",
     "static/js/924.d8caecc0.chunk.js": "/sc/static/js/924.d8caecc0.chunk.js",
     "static/js/79.ffa85e09.chunk.js": "/sc/static/js/79.ffa85e09.chunk.js",
@@ -47,11 +47,11 @@
     "static/media/flukhx-podcast.md": "/sc/static/media/flukhx-podcast.f7c0dc0903d8b10a74ff.md",
     "index.html": "/sc/index.html",
     "static/media/transformative-communities-podcast.md": "/sc/static/media/transformative-communities-podcast.c203460c82b6b82945ba.md",
-    "main.accac72b.css.map": "/sc/static/css/main.accac72b.css.map",
-    "main.db9b3c33.js.map": "/sc/static/js/main.db9b3c33.js.map"
+    "main.6b8ade2a.css.map": "/sc/static/css/main.6b8ade2a.css.map",
+    "main.459a3ad3.js.map": "/sc/static/js/main.459a3ad3.js.map"
   },
   "entrypoints": [
-    "static/css/main.accac72b.css",
-    "static/js/main.db9b3c33.js"
+    "static/css/main.6b8ade2a.css",
+    "static/js/main.459a3ad3.js"
   ]
 }
