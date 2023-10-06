@@ -8,7 +8,7 @@ const MetaTags = ({ name, description, image }) => {
       <meta charSet='utf-8' />
       <title>{name} | SweetCity2021</title>
       <meta name='description' content={description}></meta>
-      <link rel='canonical' href='http://sweetcity.dk' />
+      <link rel='canonical' href={process.env.REACT_APP_PUBLIC_URL} />
       <meta name='keywords' content='politians, Aarhus, young, culture' />
       <meta name='author' content='Aneta Camo' />
       <meta

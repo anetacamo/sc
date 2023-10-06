@@ -12,7 +12,7 @@
 
 $colors: 'red', 'yellow', 'blue', 'lightgray', 'black', 'white';
 
-$rooturl: 'http://localhost:3000/sweetcity';
+$rooturl: 'https://anetacamo.github.io/sc/';
 
 @each $color in $colors {
   .#{$color} {

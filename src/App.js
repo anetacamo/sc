@@ -23,7 +23,7 @@ function App() {
       <Header />
       <Routes>
         <Route path='/' element={<Home />} />
-        <Route path='/sweetcity' element={<Home />} />
+        <Route path='/sc' element={<Home />} />
         <Route path='/about' element={<About />} />
         {eventTypes.map((category) => (
           <Route
