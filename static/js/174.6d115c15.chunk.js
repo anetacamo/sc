@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksweetcity=self.webpackChunksweetcity||[]).push([[174],{174:function(e,t,s){e.exports=s.p+"static/media/maybe-we-need-a-cultural-passport-for-artists.063432176e57abf0e997.md"}}]);

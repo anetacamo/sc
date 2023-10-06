@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksweetcity=self.webpackChunksweetcity||[]).push([[885],{885:function(e,t,a){e.exports=a.p+"static/media/we-lack-an-alternative-to-the-national-film-school-in-copenhagen.a99b4aa211e7941f49c4.md"}}]);

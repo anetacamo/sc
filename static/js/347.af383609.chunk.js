@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksweetcity=self.webpackChunksweetcity||[]).push([[347],{347:function(e,t,c){e.exports=c.p+"static/media/election-bar.beec36ea0b0c42ef6d01.md"}}]);

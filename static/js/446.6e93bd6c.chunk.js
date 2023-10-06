@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksweetcity=self.webpackChunksweetcity||[]).push([[446],{446:function(e,t,s){e.exports=s.p+"static/media/it-wont-be-easy-but-it-is-deadly-necessary-that-we-act.42450bc97f595c7b3669.md"}}]);

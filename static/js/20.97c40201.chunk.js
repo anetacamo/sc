@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksweetcity=self.webpackChunksweetcity||[]).push([[20],{20:function(e,t,s){e.exports=s.p+"static/media/sweet-region.ec1e6cfa633f471344f3.md"}}]);

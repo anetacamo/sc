@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksweetcity=self.webpackChunksweetcity||[]).push([[924],{924:function(e,t,s){e.exports=s.p+"static/media/data-from-scary-to-sexy.a1ab47654ebe334ad393.md"}}]);

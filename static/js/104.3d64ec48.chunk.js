@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksweetcity=self.webpackChunksweetcity||[]).push([[104],{104:function(e,t,s){e.exports=s.p+"static/media/tools-for-change.b900a8cf82e68f33f3d0.md"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksweetcity=self.webpackChunksweetcity||[]).push([[363],{363:function(e,s,t){e.exports=t.p+"static/media/poster-workshop.604af519fd9b4951cf13.md"}}]);

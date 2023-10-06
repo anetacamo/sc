@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksweetcity=self.webpackChunksweetcity||[]).push([[611],{611:function(e,c,s){e.exports=s.p+"static/media/flukhx-mashup.68c73116c682cf749744.md"}}]);
