@@ -7,7 +7,7 @@ import Event from './Event';
 const TimelineEvent = ({ event, color, nameClass }) => {
   return (
     <Link
-      to={`/${slugify(event.type)}/${slugify(event.name)}`}
+      to={`/sc/${slugify(event.type)}/${slugify(event.name)}`}
       className={nameClass}
     >
       <Event
@@ -26,7 +26,7 @@ const TimelineEvent = ({ event, color, nameClass }) => {
         </h5>
         <h5>{event.location}</h5>
         <h3>{event.name}</h3>
-        <Link to={`/${slugify(event.type)}/${slugify(event.name)}`}>
+        <Link to={`/sc/${slugify(event.type)}/${slugify(event.name)}`}>
           <button>read more</button>
         </Link>
       </Event>

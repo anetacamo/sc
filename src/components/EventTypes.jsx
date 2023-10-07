@@ -7,7 +7,7 @@ const EventTypes = ({ type, description, isEven, color }) => {
   const slug = slugify(type.name);
   return (
     <div className={`flex ${isEven ? 'reversed' : 'null'}`}>
-      <Link to={`/${slug}`}>
+      <Link to={`/sc/${slug}`}>
         <Event type={type.name} color={color} nameClass='type-event'>
           <h2 className={color}>{type.name}</h2>
         </Event>
@@ -16,7 +16,7 @@ const EventTypes = ({ type, description, isEven, color }) => {
       <div className={isEven ? 'left' : 'right'}>
         <h3>{type.name}</h3>
         <p>{description}</p>
-        <Link to={`/${slug}`}>
+        <Link to={`/sc/${slug}`}>
           <button className={`btn-${type.color2}`}> upcoming events</button>{' '}
         </Link>
       </div>

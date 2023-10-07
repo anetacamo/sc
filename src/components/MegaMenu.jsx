@@ -26,7 +26,7 @@ const MegaMenu = ({ open, handleClick }) => {
       onClick={handleClick}
     >
       {eventTypes.map((type, index) => (
-        <Link to={`/${slugify(type.name)}`} key={index}>
+        <Link to={`/sc/${slugify(type.name)}`} key={index}>
           <h2 style={{ maxWidth: 44 * type.letterNum }}>
             {letterize(type.shortName)}
           </h2>

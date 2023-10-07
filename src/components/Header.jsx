@@ -10,7 +10,7 @@ const Header = () => {
   const [open, setOpen] = useState(false);
   return (
     <div className='menu flex bg-black'>
-      <Link to='/'>
+      <Link to='/sc/'>
         <Image path='/logo.png' />
         <h4 className='second logo'>Sweet City</h4>
       </Link>

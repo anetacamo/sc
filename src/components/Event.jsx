@@ -11,9 +11,10 @@ const Event = ({
   imageNum,
   imageStable,
 }) => {
-  const image = `url(${
-    process.env.REACT_APP_PUBLIC_URL
-  }/images/events/${slug}/${imageNum || '1'}.jpg)`;
+  const staticPath = 'https://anetacamo.github.io/sc/';
+  const image = `url(${staticPath}images/events/${slug}/${
+    imageNum || '1'
+  }.jpg)`;
   const [hovered, setHovered] = useState(false);
   return (
     <div

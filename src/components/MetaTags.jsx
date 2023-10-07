@@ -13,7 +13,7 @@ const MetaTags = ({ name, description, image }) => {
       <meta name='author' content='Aneta Camo' />
       <meta
         property='og:url'
-        content={`http://sweetcity.dk/${slugify(name)}`}
+        content={`${process.env.REACT_APP_PUBLIC_URL}/${slugify(name)}`}
       />
       <meta property='og:title' content={`${name} | SweetCity2021`} />
       <meta property='og:description' content={description} />

@@ -72,7 +72,7 @@ const Home = () => {
               <br /> it is time to reflect and to dream.
             </i>
           </p>
-          <Link to='/about'>
+          <Link to='/sc/about'>
             <button>Read more about</button>
           </Link>
         </div>

@@ -24,15 +24,15 @@ function App() {
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/sc' element={<Home />} />
-        <Route path='/about' element={<About />} />
+        <Route path='/sc/about' element={<About />} />
         {eventTypes.map((category) => (
           <Route
             key={category.name}
-            path={`/${slugify(category.name)}`}
+            path={`/sc/${slugify(category.name)}`}
             element={<Type category={category.name} />}
           />
         ))}
-        <Route path='/:category/:name' element={<EventLayout />} />
+        <Route path='/sc/:category/:name' element={<EventLayout />} />
       </Routes>
       <Footer />
     </>
